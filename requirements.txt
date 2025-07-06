@@ -1,0 +1,44 @@
+# Core Streamlit Framework
+streamlit
+
+# Machine Learning & Embeddings
+sentence-transformers
+transformers
+torch
+torchvision
+torchaudio
+
+# Vector Database
+faiss-cpu
+# Use faiss-gpu instead if you have CUDA GPU
+
+# LLM API Client
+groq
+
+# PDF Processing
+pdfplumber
+PyPDF2
+
+# Data Processing
+numpy
+pandas
+
+# Hugging Face Hub
+huggingface-hub
+
+# Text Processing (Optional - for advanced chunking)
+langchain
+langchain-community
+
+# Additional Utilities
+regex
+requests
+urllib3
+
+# System Dependencies
+pillow
+typing-extensions
+
+# Optional: For better performance
+# numba  # Uncomment for faster numerical computations
+# scikit-learn  # Uncomment for additional ML utilities
